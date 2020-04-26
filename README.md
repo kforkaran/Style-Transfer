@@ -3,8 +3,8 @@
 Original and resulting image:
 <img src="images/result.png"/>
 
-Image used as for style:
-<img src="images/img5.jpg"/>
+Image used for style:
+<img src="images/img5.jpg" width="200px"/>
 
 ## How to use it
 - Clone/Fork the project
