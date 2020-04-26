@@ -3,7 +3,8 @@
 Original and resulting image:
 <img src="images/result.png"/>
 
-Image used for style:
+Image used for style
+<br>
 <img src="images/img5.jpg" width="200px"/>
 
 ## How to use it
